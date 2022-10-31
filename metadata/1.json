@@ -1,0 +1,44 @@
+{
+  "name": "AptosBirds #1",
+  "description": "AptosBirds #1",
+  "image": "https://nftstorage.link/ipfs/bafybeibgtdkejt77t4w2fl2kh36cokmj5vipwfsxsn2z2fx35trlvg2kc4/1.png",
+  "external_url": "https://nftstorage.link/ipfs/bafybeibgtdkejt77t4w2fl2kh36cokmj5vipwfsxsn2z2fx35trlvg2kc4/1.png",
+  "attributes": [
+    {
+      "trait_type": "Specie",
+      "value": "Owl"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry - Yellow"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Down"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Small - Orange"
+    }
+  ]
+}

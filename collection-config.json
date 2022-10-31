@@ -1,0 +1,18 @@
+{
+  "collectionMeta": {
+    "name": "Aptos Birds",
+    "description": "They're a collection of 10,000 utility-enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Aptosbird unlocks private club membership and additional benefits the longer you hold them.",
+    "external_url": "https://aptosbirds.xyz"
+  },
+  "royalty": {
+    "takeRate": 5,
+    "feeRecipient": "0xc8c5f00f234b26a7e206d616a9a2063e6b7894651abc94d4b0ace979f53295fa"
+  },
+  "tokenInfo": {
+    "maxSupply": 10000
+  },
+  "assets": {
+    "logoUri": "https://nftstorage.link/ipfs/bafybeibgtdkejt77t4w2fl2kh36cokmj5vipwfsxsn2z2fx35trlvg2kc4/3.png",
+    "tokenMetadataUri": "https://nftstorage.link/ipfs/bafybeiai6qhoa4vhvk4q5waqi2ntm6e2ouxioxtp73t7zwhzjxdxwcp47u"
+  }
+}
