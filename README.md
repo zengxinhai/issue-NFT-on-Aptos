@@ -10,7 +10,7 @@ Change the file **collection-config.json** according to your need.
 ### your private key
 PRIV_KEY=<Your private key>
 ### interact with Dev or Main net
-CHAIN_NET=<DEV or MAIN>
+CHAIN_NET=<Dev or Main>
 ```
 
 ### 4. Run the script
